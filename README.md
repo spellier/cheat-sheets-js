@@ -5,9 +5,13 @@
 * [Comment éviter les structures if/else ennuyeuses](tips/AVOID_IF_ELSE.md)
 * [Manipulation d'objets et de tableaux](tips/OBJECT_MANIPULATION.md)
 
+* TODO [Promises](PROMISES.md)
+* TODO [Appels HTTP avec fetch](HTTP_WITH_FETCH.md)
+
 
 ## Pour aller plus lien
 
+* [Grafikart - Apprendre le JS](https://grafikart.fr/formations/formation-javascript)
 * [State of Javascript](https://stateofjs.com/en-US)
 * [Most Demanded Frontend FW](https://www.devjobsscanner.com/blog/the-most-demanded-frontend-frameworks/)
 
