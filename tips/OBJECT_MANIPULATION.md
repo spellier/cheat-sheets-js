@@ -471,5 +471,5 @@ const menSalaryTotal = userList
 
 ## Documentation
 
-[Expressions et opérateurs JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators)
+[Expressions et opérateurs JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators)  
 [Objet Array JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array)
