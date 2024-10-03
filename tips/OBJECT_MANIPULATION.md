@@ -471,6 +471,5 @@ const menSalaryTotal = userList
 
 ## Documentation
 
-[Event](https://geodis.sharepoint.com/sites/road-RT-IT-IHM/_layouts/15/stream.aspx?id=%2Fsites%2Froad%2DRT%2DIT%2DIHM%2FShared%20Documents%2FBonnes%20pratiques%20Angular%2FTips%2FEvent%20Angular%20%5F%20Manipulation%20d%27objets%20et%20de%20tableaux%2D20240329%5F143257%2DEnregistrement%20de%20la%20r%C3%A9union%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopiedShareExpControl%2Eview)
 [Expressions et opérateurs JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators)
 [Objet Array JS](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array)
