@@ -1,13 +1,15 @@
 # Cheat Sheets JS
 
+## Basics
+
+* [Promises](PROMISES.md)
+* TODO [Appels HTTP avec fetch](HTTP_WITH_FETCH.md)
+* TODO [Dates](DATES.md)
+
 ## Tips 
 
 * [Comment éviter les structures if/else ennuyeuses](tips/AVOID_IF_ELSE.md)
 * [Manipulation d'objets et de tableaux](tips/OBJECT_MANIPULATION.md)
-
-* TODO [Promises](PROMISES.md)
-* TODO [Appels HTTP avec fetch](HTTP_WITH_FETCH.md)
-* TODO [Dates](DATES.md)
 
 
 ## Pour aller plus lien
