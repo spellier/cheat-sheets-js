@@ -150,5 +150,5 @@ this.timeZoneDayJS = dayjs.tz.guess(); // Avec dayjs
 
 ## Pour aller plus loin
 
-[MDN Web Docs](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date)
+[MDN Web Docs - Dates](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Date)  
 Pour plus d'informations sur les capacités de dayJS, aller voir la [Doc officielle](https://day.js.org/docs/en/installation/installation).
