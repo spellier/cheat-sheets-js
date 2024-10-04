@@ -119,9 +119,10 @@ Promise.race([promiseA, promiseB])
 
 #### Utilisation avec async/await
 
-Déclaration d'une fonction async
-
 ```javascript
+/*******************************************
+ ***  Déclaration d'une fonction async.  ***
+ ******************************************/
 const maFonctionAsync = async () => {
     try {
         const resultat = await maPromise;
@@ -135,9 +136,10 @@ maFonctionAsync();
 
 ```
 
-Chainer avec await
-
 ```javascript
+/*****************************
+ ***  Chainer avec await.  ***
+ *****************************/
 const maFonctionAsyncChaine = async () => {
     const result1 = await Promise.resolve(5);
     const result2 = await Promise.resolve(result1 * 2);
@@ -148,8 +150,10 @@ maFonctionAsyncChaine();
 
 ```
 
-Utilisation avec Promise.all()
 ```javascript
+/*****************************************
+ ***  Utilisation avec Promise.all().  ***
+ ****************************************/
 const maFonctionAsyncAll = async () => {
     const results = await Promise.all([promise1, promise2, promise3]);
     console.log(results); // Affiche [3, 42, "foo"]
