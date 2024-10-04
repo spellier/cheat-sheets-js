@@ -3,7 +3,7 @@
 ## Basics
 
 * [Promises](PROMISES.md)
-* TODO [Appels HTTP avec fetch](HTTP_WITH_FETCH.md)
+* [Appels HTTP avec fetch](HTTP_WITH_FETCH.md)
 * TODO [Dates](DATES.md)
 
 ## Tips 
